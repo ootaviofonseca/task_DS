@@ -44,7 +44,7 @@ def convert_timestamp(date_str):
         return None  # Return None if the date is invalid
     
 # Import data from JSON file
-with open("Data\data.json", "r") as file:#Open data.json in read mode
+with open("data.json", "r") as file:#Open data.json in read mode
     users_data = json.load(file) #Convert the JSON data to a Python dictionary
     
     # Check if the data is valid in the JSON file
