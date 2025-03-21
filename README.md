@@ -1,7 +1,7 @@
 
 <div align="center">
   <br>
-  <h1>CRUD de Usuários</h1>
+  <h1>User CRUD</h1>
   <strong>Aplicação full stack com Flask, Vue e MongoDB</strong>
 </div>
 <br>
